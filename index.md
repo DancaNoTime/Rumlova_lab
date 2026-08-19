@@ -1,9 +1,9 @@
 ---
 ---
 
-# Kot-ui-77's Website
+# Rumlova Lab
 
-An engaging 1-3 sentence description of your lab.
+We study the molecular biology of retroviruses and flaviviruses, with a focus on viral replication, virus–host interactions, and mechanisms that regulate the viral replication cycle.
 
 {% include section.html %}
 
@@ -11,9 +11,8 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research focuses on the molecular mechanisms of viral replication, including the structure and function of viral proteins and their interactions with host cells.
 
-{%
   include button.html
   link="research"
   text="See our publications"
