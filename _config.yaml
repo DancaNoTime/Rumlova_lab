@@ -1,19 +1,15 @@
 # site properties and page defaults
 title: Molecular Virology lab
 subtitle: 
-description: Research group studying the molecular biology of retroviruses and flaviviruses, with a focus on viral replication, virus–host interactions, and the molecular mechanisms underlying the viral replication cycle. 
+description: We investigate how viruses take control of cellular machinery to replicate and spread. Focusing on retroviruses and flaviviruses, we study virus–host interactions and the molecular mechanisms governing viral protein–RNA interactions.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@Kot-ui-77.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: Kot-ui-77
-  twitter: Kot-ui-77
-  youtube: Kot-ui-77
+  email: michaela.rumlova@vscht.cz
+  orcid: 0000-0002-5645-8227
 
 ### jekyll settings
 
