@@ -10,7 +10,7 @@ links:
   orcid: 0000-0002-5645-8227
 ---
 
-Michaela studied Enzyme Engineering at the University of Chemistry and Technology Prague (UCT Prague), where she later obtained her PhD studying the expression and function of Mason–Pfizer monkey virus proteins. During and after her doctoral studies, she spent several research stays at the University of Alabama at Birmingham, USA. She subsequently joined the Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences, where she worked as a research scientist from 1997 to 2014.
+Michaela Rumlová studied Enzyme Engineering at the University of Chemistry and Technology Prague (UCT Prague), where she later obtained her PhD studying the expression and function of Mason–Pfizer monkey virus proteins. During and after her doctoral studies, she spent several research stays at the University of Alabama at Birmingham, USA. She subsequently joined the Institute of Organic Chemistry and Biochemistry of the Czech Academy of Sciences, where she worked as a research scientist from 1997 to 2014.
 
 In 2013, Michaela joined the Department of Biotechnology at UCT Prague, where she established her research group and continued her work on the molecular biology of viruses. She became Associate Professor of Biotechnology in 2018 and was appointed Professor of Biotechnology in 2021.
 
