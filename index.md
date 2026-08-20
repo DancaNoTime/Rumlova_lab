@@ -25,7 +25,7 @@ Our research focuses on the molecular mechanisms of viral replication, including
 
 {%
   include feature.html
-  image="images/cells_1.jpg"
+  image="images/book.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/lab_bench.jpg"
+  image="images/cells_1.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -73,7 +73,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/A7_07203.jpg"
   link="team"
   title="Our Team"
   text=text
