@@ -2,7 +2,6 @@
 name: Michaela Rumlova
 image: images/MR.jpg
 role: principal-investigator
-affiliation: University of Chemistry and Technology
 aliases:
   - M. Rumlova
   - M Rumlova
