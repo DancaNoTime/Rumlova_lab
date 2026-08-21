@@ -1,7 +1,7 @@
 ---
 name: Daniela Nečasová
 image: images/DN.jpg
-role: PhD student
+role: PhD Student
 aliases:
   - D. Necasova
   - D Necasova
