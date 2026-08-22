@@ -1,6 +1,6 @@
 ---
 name: Alžběta Dostálková
-image: images/AD.jpg
+image: images/AD2.jpg
 role: senior-researcher
 links:
   email: dostalkl@vscht.cz
