@@ -2,6 +2,7 @@
 name: Michaela Rumlova
 image: images/MR.jpg
 role: principal-investigator
+order: 1
 aliases:
   - M. Rumlova
   - M Rumlova
