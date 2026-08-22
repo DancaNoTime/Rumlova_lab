@@ -1,7 +1,7 @@
 ---
 name: Alžběta Dostálková
 image: images/AD.jpg
-role: Senior researcher
+role: senior-researcher
 links:
   email: dostalkl@vscht.cz
   ORCID: 0000-0003-0430-766X
