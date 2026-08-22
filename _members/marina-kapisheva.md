@@ -1,7 +1,7 @@
 ---
 name: Marina Kapisheva
 image: images/MK.jpg
-role: PhD Student
+role: phd
 aliases:
   - M. Kapisheva
   - M Kapisheva
