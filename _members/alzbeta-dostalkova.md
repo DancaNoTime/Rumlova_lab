@@ -1,6 +1,6 @@
 ---
 name: Alžběta Dostálková
-image: images/AD2.jpg
+image: images/DA.jpg
 role: senior-researcher
 order: 3
 links:
