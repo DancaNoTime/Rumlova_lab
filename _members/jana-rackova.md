@@ -1,7 +1,7 @@
 ---
 name: Jana Racková
 image: images/JR.jpg
-role: Senior researcher
+role: senior-researcher
 aliases:
   - J. Racková
   - J Racková
