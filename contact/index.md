@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
-Adress: Technická 5, 166 28 Praha 6 – Dejvice
+Address: Technická 5, 166 28 Praha 6 – Dejvice
 {%
   include button.html
   type="email"
@@ -19,7 +19,5 @@ Adress: Technická 5, 166 28 Praha 6 – Dejvice
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/jJsTBVCMpDn3s2to7"
 %}
-
-{% include section.html %}
 
 
