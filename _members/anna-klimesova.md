@@ -1,7 +1,7 @@
 ---
 name: Anna Klimešová
 image: images/AK.jpg
-role: Technician
+role: technician
 aliases:
   - A. Klimešová
   - A Klimešová
