@@ -2,6 +2,7 @@
 name: Ivana Křížová
 image: images/IK.jpg
 role: lab-manager
+order: 2
 aliases:
   - I. Křížová
   - I Křížová
