@@ -3,12 +3,20 @@
 # team member roles
 
 principal-investigator:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-brain
   description: Principal Investigator
 
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
+
+lab-manager:
+  icon: fa-solid fa-dna
+  description: Senior Researcher/Lab manager
+
+senior-researcher:
+  icon: fa-solid fa-microscope
+  description: Senior Researcher
 
 phd:
   icon: fa-solid fa-graduation-cap
@@ -22,9 +30,9 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+technician:
+  icon: fa-solid fa-vials
+  description: Technician
 
 # general
 
