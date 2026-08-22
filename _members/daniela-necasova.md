@@ -2,6 +2,7 @@
 name: Daniela Nečasová
 image: images/DN.jpg
 role: phd
+order: 6
 aliases:
   - D. Necasova
   - D Necasova
