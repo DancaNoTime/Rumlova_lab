@@ -1,8 +1,10 @@
 ---
 name: Ivana Křížová
 image: images/IK.jpg
-role: Senior researcher
-group: alum
+role: lab-manager
+aliases:
+  - I. Křížová
+  - I Křížová
 links:
   ORCID: 0000-0002-0497-4924
   email: ivana.krizova@vscht.cz
