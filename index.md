@@ -13,6 +13,7 @@ We study the molecular biology of retroviruses and flaviviruses, with a focus on
 
 Our research focuses on the molecular mechanisms of viral replication, including the structure and function of viral proteins and their interactions with host cells.
 
+{%
   include button.html
   link="research"
   text="See our publications"
@@ -33,7 +34,7 @@ Our research focuses on the molecular mechanisms of viral replication, including
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+In addition to our funded projects, students contribute to our research through PhD, Master’s, and Bachelor’s thesis projects.
 
 {%
   include button.html
@@ -58,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a diverse team brought together by a shared curiosity about viruses, science, and discovery. 
 
 {%
   include button.html
