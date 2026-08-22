@@ -2,6 +2,7 @@
 name: Marina Kapisheva
 image: images/MK.jpg
 role: phd
+order: 7
 aliases:
   - M. Kapisheva
   - M Kapisheva
