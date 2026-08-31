@@ -4,8 +4,8 @@ image: images/DA.jpg
 role: senior-researcher
 order: 3
 links:
-  email: dostalkl@vscht.cz
   ORCID: 0000-0003-0430-766X
+  email: dostalkl@vscht.cz
 ---
 Alžběta Dostálková studied Pharmaceutical Biotechnology at the University of Chemistry and Technology Prague (UCT Prague), where her Master's research focused on the role of the basic region of the nucleocapsid protein in the formation of mature and immature retroviral particles. During her studies, she also spent four months in the laboratory of Prof. Alena Kubátová at the University of North Dakota, USA. She continued at UCT Prague with a PhD in Microbiology, investigating the molecular interactions that drive retroviral particle assembly and their potential as targets for inhibition. Since 2022, she has worked as a research scientist in the group.
 
