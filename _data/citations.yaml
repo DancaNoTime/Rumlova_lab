@@ -1,209 +1,1694 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1038/s41467-026-76510-7
+  title: Retroviruses use different IP6 binding mechanisms to alter the properties
+    of their capsids
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - J. Ole Klarhof
+  - Donna L. Mallery
+  - James C. V. Stacey
+  - Davide Torre
+  - Michaela Rumlova
+  - Tomas Ruml
+  - John A. G. Briggs
+  - Leo C. James
+  publisher: Nature Communications
+  date: '2026-08-21'
+  link: https://doi.org/hcg9g7
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1002/pro.70469
+  title: "Protease\u2010mediated maturation of M\u2010\n                    <scp>PMV</scp>\n\
+    \                    reverse transcriptase into a functional heterodimer"
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Marina Kapisheva
+  - "Petra Junkov\xE1"
+  - "Ond\u0159ej Van\u011Bk"
+  - "Zuzana Jalovcov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Michaela Rumlov\xE1"
+  publisher: Protein Science
+  date: '2026-01-20'
+  link: https://doi.org/hcg9g8
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/cmdc.202500644
+  title: "Allosteric Inhibitors of SARS\u2010CoV\u20102 RNA\u2010Dependent RNA Polymerase\
+    \ Based on\n                    <i>N</i>\n                    ,\n            \
+    \        <i>N\u2032</i>\n                    \u2010Diphenylurea"
+  authors:
+  - Artem Chayka
+  - "Mat\u011Bj Danda"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Vojt\u011Bch Spiwok"
+  - Lamija Zijadic
+  - "Anna Klime\u0161ov\xE1"
+  - Marina Kapisheva
+  - "Michala Zgarbov\xE1"
+  - Jan Weber
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  - Zlatko Janeba
+  publisher: ChemMedChem
+  date: '2025-11-22'
+  link: https://doi.org/hcg9g9
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biopha.2025.118588
+  title: 'Bridging predictions with experimental reality: In vitro evaluation of phenolic
+    natural products as SARS-CoV-2 exoribonuclease inhibitors'
+  authors:
+  - "Mat\u011Bj Danda"
+  - "Barbora Chv\xE1talov\xE1"
+  - "Daniela Ne\u010Dasov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Biomedicine &amp; Pharmacotherapy
+  date: '2025-11-01'
+  link: https://doi.org/hcg9hb
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pro.5103
+  title: "Biochemical characterization of naturally occurring mutations in\n     \
+    \               <scp>SARS</scp>\n                    \u2010\n                \
+    \    <scp>CoV</scp>\n                    \u20102\n                    <scp>RNA</scp>\n\
+    \                    \u2010dependent\n                    <scp>RNA</scp>\n   \
+    \                 polymerase"
+  authors:
+  - "Mat\u011Bj Danda"
+  - "Anna Klime\u0161ov\xE1"
+  - "Kl\xE1ra Ku\u0161kov\xE1"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Aneta Pag\xE1\u010Dov\xE1"
+  - Jan Prchal
+  - Marina Kapisheva
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Protein Science
+  date: '2024-08-15'
+  link: https://doi.org/hcg9hc
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.02.24.581855
+  title: Biochemical characterization of naturally occurring mutations in SARS-CoV-2
+    RNA-dependent RNA polymerase
+  authors:
+  - "Mat\u011Bj Danda"
+  - "Anna Klime\u0161ov\xE1"
+  - "Kl\xE1ra Ku\u0161kov\xE1"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Aneta Pag\xE1\u010Dov\xE1"
+  - Jan Prchal
+  - Marina Kapisheva
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2024-02-26'
+  link: https://doi.org/hcg9hd
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1002/CMDC.202400367
+  title: "Developing Allosteric Inhibitors of SARS\u2010CoV\u20102 RNA\u2010Dependent\
+    \ RNA Polymerase"
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
+  - Artem Chayka
+  - "Mat\u011Bj Danda"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Vojt\u011Bch Spiwok"
+  - "Anna Klime\u0161ov\xE1"
+  - Marina Kapisheva
+  - "Michala Zgarbov\xE1"
+  - Jan Weber
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  - Zlatko Janeba
+  publisher: ChemMedChem
+  date: '2024-10-03'
+  link: https://doi.org/hcg9hf
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.INORGCHEM.4C00084
+  title: "PEGylated Molybdenum\u2013Iodine Nanocluster as a Promising Radiodynamic\
+    \ Agent against Prostatic Adenocarcinoma"
+  authors:
+  - "Tom\xE1\u0161 P\u0159ibyl"
+  - "Michaela Rumlov\xE1"
+  - "Romana Miky\u0161kov\xE1"
+  - "Milan Reini\u0161"
+  - "Anton\xEDn Ka\u0148a"
+  - "Karel \u0160koch"
+  - Jaroslav Zelenka
+  - Kaplan Kirakci
+  - "Tom\xE1\u0161 Ruml"
+  - Kamil Lang
+  publisher: Inorganic Chemistry
+  date: '2024-02-16'
+  link: https://doi.org/hcg9hg
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chemosphere.2024.141162
+  title: Prevalence of SARS-CoV-2 variants in Prague wastewater determined by nanopore-based
+    sequencing
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Kamila Zde\u0148kov\xE1"
+  - "Jana Bart\xE1\u010Dkov\xE1"
+  - "Eli\u0161ka \u010Cerm\xE1kov\xE1"
+  - Marina Kapisheva
+  - Marco A. Lopez Marin
+  - "Vojt\u011Bch Kouba"
+  - "Petr S\xFDkora"
+  - Martin Chmel
+  - "Old\u0159ich Barto\u0161"
+  - "Ji\u0159\xED Dresler"
+  - "Kate\u0159ina Demnerov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Jan Bart\xE1\u010Dek"
+  publisher: Chemosphere
+  date: '2024-03-01'
+  link: https://doi.org/gwbvfk
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/PNAS.2407990121
+  title: "Unveiling the DHX15\u2013G-patch interplay in retroviral RNA packaging"
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Petra Junkov\xE1"
+  - "Jana Rackov\xE1"
+  - Marina Kapisheva
+  - "Radim Novotn\xFD"
+  - "Mat\u011Bj Danda"
+  - "Karol\xEDna Zvona\u0159ov\xE1"
+  - "Larisa \u0160inkovec"
+  - "Kate\u0159ina Ve\u010Derkov\xE1"
+  - "Lucie Bedn\xE1rov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-09-25'
+  link: https://doi.org/hcg9hh
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.JMEDCHEM.2C02097
+  title: Design, Synthesis, Biological Evaluation, and Crystallographic Study of Novel
+    Purine Nucleoside Phosphorylase Inhibitors
+  authors:
+  - "Jan Sk\xE1cel"
+  - Stefan Djukic
+  - "Ond\u0159ej Baszczy\u0148ski"
+  - "Filip Kal\u010Dic"
+  - "Tade\xE1\u0161 B\xEDlek"
+  - "Karel Chalupsk\xFD"
+  - "Jaroslav Koz\xE1k"
+  - "Alexandra Dvo\u0159\xE1kov\xE1"
+  - "Eva Tlou\u0161t\u2019ov\xE1"
+  - "Zuzana Kr\xE1l\u2019ov\xE1"
+  - "Mark\xE9ta \u0160m\xEDdkov\xE1"
+  - "Jan Vold\u0159ich"
+  - "Michaela Rumlov\xE1"
+  - Petr Pachl
+  - "Ji\u0159\xED Brynda"
+  - "Tereza Vu\u010Dkov\xE1"
+  - "Milan F\xE1bry"
+  - "Jan Sn\xE1\u0161el"
+  - "Iva Pichov\xE1"
+  - "Pavl\xEDna \u0158ez\xE1\u010Dov\xE1"
+  - "Helena Mertl\xEDkov\xE1-Kaiserov\xE1"
+  - Zlatko Janeba
+  publisher: Journal of Medicinal Chemistry
+  date: '2023-05-03'
+  link: https://doi.org/hcg9hj
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.scitotenv.2023.161935
+  title: Monitoring COVID-19 spread in selected Prague's schools based on the presence
+    of SARS-CoV-2 RNA in wastewater
+  authors:
+  - Marco A. Lopez Marin
+  - K. Zdenkova
+  - J. Bartackova
+  - E. Cermakova
+  - A. Dostalkova
+  - K. Demnerova
+  - L. Vavruskova
+  - Z. Novakova
+  - P. Sykora
+  - M. Rumlova
+  - J. Bartacek
+  publisher: Science of The Total Environment
+  date: '2023-05-01'
+  link: https://doi.org/hcg9hk
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.SCITOTENV.2023.166110
+  title: Monitoring of monkeypox viral DNA in Prague wastewater
+  authors:
+  - "Jana Bart\xE1\u010Dkov\xE1"
+  - "Vojt\u011Bch Kouba"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Eli\u0161ka \u010Cerm\xE1kov\xE1"
+  - Marco A. Lopez Marin
+  - Martin Chmel
+  - "Marcela Milanov\xE1"
+  - "Kate\u0159ina Demnerov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Petr S\xFDkora"
+  - "Jan Bart\xE1\u010Dek"
+  - "Kamila Zde\u0148kov\xE1"
+  publisher: Science of The Total Environment
+  date: '2023-12-01'
+  link: https://doi.org/hcg9hm
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.54779/CHL20230393
+  title: "National Institute of Virology and Bacteriology \u2013 A Reaction to Threats\
+    \ of Future Pandemics"
+  authors:
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: "Chemick\xE9 listy"
+  date: '2023-07-15'
+  link: https://doi.org/hcg9hn
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.INORGCHEM.2C00040
+  title: 'A Cell Membrane Targeting Molybdenum-Iodine Nanocluster: Rational Ligand
+    Design toward Enhanced Photodynamic Activity'
+  authors:
+  - Kaplan Kirakci
+  - "Michaela Kub\xE1\u0148ov\xE1"
+  - "Tom\xE1\u0161 P\u0159ibyl"
+  - "Michaela Rumlov\xE1"
+  - Jaroslav Zelenka
+  - "Tom\xE1\u0161 Ruml"
+  - Kamil Lang
+  publisher: Inorganic Chemistry
+  date: '2022-03-16'
+  link: https://doi.org/hcg9hp
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41598-022-12760-X
+  title: "Alteration in DNA-binding affinity of Wilms tumor 1 protein due to WT1 genetic\
+    \ variants associated with steroid\_- resistant nephrotic syndrome in children"
+  authors:
+  - Martin Bezdicka
+  - Filip Kaufman
+  - Ivana Krizova
+  - Alzbeta Dostalkova
+  - Michaela Rumlova
+  - Tomas Seeman
+  - Karel Vondrak
+  - Filip Fencl
+  - Jakub Zieg
+  - Ondrej Soucek
+  publisher: Scientific Reports
+  date: '2022-05-24'
+  link: https://doi.org/hcg9hq
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/D2TB00141A
+  title: Avenue to X-ray-induced photodynamic therapy of prostatic carcinoma with
+    octahedral molybdenum cluster nanoparticles
+  authors:
+  - "Martina Konco\u0161ov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Romana Miky\u0161kov\xE1"
+  - "Milan Reini\u0161"
+  - Jaroslav Zelenka
+  - "Tom\xE1\u0161 Ruml"
+  - Kaplan Kirakci
+  - Kamil Lang
+  publisher: Journal of Materials Chemistry B
+  date: '2022-01-01'
+  link: https://doi.org/gsq5r9
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/V14061187
+  title: "Correction: K\u0159\xED\u017Eov\xE1 et al. Fullerene Derivatives Prevent\
+    \ Packaging of Viral Genomic RNA into HIV-1 Particles by Binding Nucleocapsid\
+    \ Protein. Viruses 2021, 13, 2451"
+  authors:
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Edison Castro
+  - Jan Prchal
+  - "Romana Hadravov\xE1"
+  - Filip Kaufman
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  - Manuel Llano
+  - Luis Echegoyen
+  - "Michaela Rumlov\xE1"
+  publisher: Viruses
+  date: '2022-05-30'
+  link: https://doi.org/hcg9hr
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CSBJ.2022.05.052
+  title: Integrative RNA profiling of TBEV-infected neurons and astrocytes reveals
+    potential pathogenic effectors
+  authors:
+  - Martin Selinger
+  - "Pavl\xEDna V\u011Bchtov\xE1"
+  - "Hana Tykalov\xE1"
+  - "Petra O\u0161lej\u0161kov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "J\xE1n \u0160t\u011Brba"
+  - Libor Grubhoffer
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2022-01-01'
+  link: https://doi.org/gqq488
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.WATRES.2022.118343
+  title: Monitoring COVID-19 spread in Prague local neighborhoods based on the presence
+    of SARS-CoV-2 RNA in wastewater collected throughout the sewer network
+  authors:
+  - Kamila Zdenkova
+  - Jana Bartackova
+  - Eliska Cermakova
+  - Katerina Demnerova
+  - Alzbeta Dostalkova
+  - Vaclav Janda
+  - Jiri Jarkovsky
+  - Marco Antonio Lopez Marin
+  - Zuzana Novakova
+  - Michaela Rumlova
+  - Jana Rihova Ambrozova
+  - Klara Skodakova
+  - Iva Swierczkova
+  - Petr Sykora
+  - Dana Vejmelkova
+  - Jiri Wanner
+  - Jan Bartacek
+  publisher: Water Research
+  date: '2022-06-01'
+  link: https://doi.org/gv2jr3
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000821444602003
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000821444602003
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JBC.2022.102585
+  title: "Tick-borne encephalitis virus capsid protein induces translational shutoff\
+    \ as revealed by its structural\u2013biological analysis"
+  authors:
+  - Martin Selinger
+  - "Radim Novotn\xFD"
+  - "Jakub S\xFDs"
+  - Justin A. Roby
+  - "Hana Tykalov\xE1"
+  - Ganji Sri Ranjani
+  - "Marie Vancov\xE1"
+  - "Kate\u0159ina Jaklov\xE1"
+  - Filip Kaufman
+  - Marshall E. Bloom
+  - "Zbyn\u011Bk Zdr\xE1hal"
+  - Libor Grubhoffer
+  - Jade K. Forwood
+  - Richard Hrabal
+  - "Michaela Rumlov\xE1"
+  - "J\xE1n \u0160t\u011Brba"
+  publisher: Journal of Biological Chemistry
+  date: '2022-11-01'
+  link: https://doi.org/hcg9hs
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/BIOMEDICINES9091104
+  title: 'Betulinic Acid Decorated with Polar Groups and Blue Emitting BODIPY Dye:
+    Synthesis, Cytotoxicity, Cell-Cycle Analysis and Anti-HIV Profiling'
+  authors:
+  - David Kodr
+  - "Jarmila Stankov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Petr D\u017Eub\xE1k"
+  - "Ji\u0159\xED \u0158ehulka"
+  - "Tom\xE1\u0161 Zimmermann"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "So\u0148a Gursk\xE1"
+  - "Mari\xE1n Hajd\xFAch"
+  - "Pavel B. Dra\u0161ar"
+  - "Michal Jur\xE1\u0161ek"
+  publisher: Biomedicines
+  date: '2021-08-28'
+  link: https://doi.org/hcg9ht
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/V13010129
+  title: Effect of Small Polyanions on In Vitro Assembly of Selected Members of Alpha-,
+    Beta- and Gammaretroviruses
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Barbora Vokat\xE1"
+  - Filip Kaufman
+  - Pavel Ulbrich
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Viruses
+  date: '2021-01-18'
+  link: https://doi.org/hcg9hv
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/V13122451
+  title: Fullerene Derivatives Prevent Packaging of Viral Genomic RNA into HIV-1 Particles
+    by Binding Nucleocapsid Protein
+  authors:
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Edison Castro
+  - Jan Prchal
+  - "Romana Hadravov\xE1"
+  - Filip Kaufman
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  - Manuel Llano
+  - Luis Echegoyen
+  - "Michaela Rumlov\xE1"
+  publisher: Viruses
+  date: '2021-12-06'
+  link: https://doi.org/hcg9hw
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/PH14121291
+  title: "Heterocyclic Cathinones as Inhibitors of Kynurenine Aminotransferase II\u2014\
+    Design, Synthesis, and Evaluation"
+  authors:
+  - "Michal Mary\u0161ka"
+  - "Lucie Svobodov\xE1"
+  - Wim Dehaen
+  - "Martina Hrabinov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Ond\u0159ej Soukup"
+  - "Martin Kucha\u0159"
+  publisher: Pharmaceuticals
+  date: '2021-12-10'
+  link: https://doi.org/g7czbj
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/IJMS221910790
+  title: Inhibition of Mitochondrial Metabolism Leads to Selective Eradication of
+    Cells Adapted to Acidic Microenvironment
+  authors:
+  - "Martina Konco\u0161ov\xE1"
+  - "Nikola Vrz\xE1\u010Dkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Petra Tom\xE1\u0161ov\xE1"
+  - "Silvie Rimpelov\xE1"
+  - "Ale\u0161 Dvo\u0159\xE1k"
+  - "Libor V\xEDtek"
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - Jaroslav Zelenka
+  publisher: International Journal of Molecular Sciences
+  date: '2021-10-06'
+  link: https://doi.org/gm7tbn
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/molecules25081895
+  title: PF74 and Its Novel Derivatives Stabilize Hexameric Lattice of HIV-1 Mature-Like
+    Particles
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Kry\u0161tof \u0160kach"
+  - Filip Kaufman
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Romana Hadravov\xE1"
+  - Martin Flegel
+  - "Tom\xE1\u0161 Ruml"
+  - Richard Hrabal
+  - "Michaela Rumlov\xE1"
+  publisher: Molecules
+  date: '2020-04-20'
+  link: https://doi.org/hcg9hx
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.00991-20
+  title: "<i>In Vitro</i>\n            Quantification of the Effects of IP6 and Other\
+    \ Small Polyanions on Immature HIV-1 Particle Assembly and Core Stability"
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Filip Kaufman
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Barbora Vokat\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of Virology
+  date: '2020-09-29'
+  link: https://doi.org/hcg9hz
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000580652400005
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000580652400005
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/1873-3468.13857
+  title: "Characterization and <i>in\_vitro</i> assembly of tick\u2010borne encephalitis\
+    \ virus C protein"
+  authors:
+  - Filip Kaufman
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Luk\xE1\u0161 Pek\xE1rek"
+  - Tung Dinh Thanh
+  - Marina Kapisheva
+  - "Romana Hadravov\xE1"
+  - "Lucie Bedn\xE1rov\xE1"
+  - "Radim Novotn\xFD"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Ji\u0159\xED \u010Cern\xFD"
+  - Libor Grubhoffer
+  - "Tom\xE1\u0161 Ruml"
+  - Richard Hrabal
+  - "Michaela Rumlov\xE1"
+  publisher: FEBS Letters
+  date: '2020-06-01'
+  link: https://doi.org/hcg9h2
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/IJMS21239293
+  title: Characterization of AMBN I and II Isoforms and Study of Their Ca2+-Binding
+    Properties
+  authors:
+  - Veronika Vetyskova
+  - Monika Zouharova
+  - Lucie Bednarova
+  - "Ond\u0159ej Van\u011Bk"
+  - "Petra S\xE1zelov\xE1"
+  - "V\xE1clav Ka\u0161i\u010Dka"
+  - Jiri Vymetal
+  - Jaroslav Srp
+  - "Michaela Rumlov\xE1"
+  - Tatsiana Charnavets
+  - Klara Postulkova
+  - Janne E. Reseland
+  - Kristyna Bousova
+  - Jiri Vondrasek
+  publisher: International Journal of Molecular Sciences
+  date: '2020-12-05'
+  link: https://doi.org/hcg9h3
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:000580652400005
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:000580652400005
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-53483-w
+  title: A simple, high-throughput stabilization assay to test HIV-1 uncoating inhibitors
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Romana Hadravov\xE1"
+  - Filip Kaufman
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Kry\u0161tof \u0160kach"
+  - Martin Flegel
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Scientific Reports
+  date: '2019-11-19'
+  link: https://doi.org/hcg9h4
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.ra118.003505
+  title: "Nuclear transport of nicotinamide phosphoribosyltransferase is cell cycle\u2013\
+    dependent in mammalian cells, and its inhibition slows cell growth"
+  authors:
+  - Petr Svoboda
+  - Edita Krizova
+  - Sarka Sestakova
+  - Kamila Vapenkova
+  - Zdenek Knejzlik
+  - Silvie Rimpelova
+  - Diana Rayova
+  - Nikol Volfova
+  - Ivana Krizova
+  - Michaela Rumlova
+  - David Sykora
+  - Rene Kizek
+  - Martin Haluzik
+  - Vaclav Zidek
+  - Jarmila Zidkova
+  - Vojtech Skop
+  publisher: Journal of Biological Chemistry
+  date: '2019-05-01'
+  link: https://doi.org/hcg9h5
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C8BM01564C
+  title: 'Cationic octahedral molybdenum cluster complexes functionalized with mitochondria-targeting
+    ligands: photodynamic anticancer and antibacterial activities'
+  authors:
+  - Kaplan Kirakci
+  - Jaroslav Zelenka
+  - "Michaela Rumlov\xE1"
+  - "Josef Cva\u010Dka"
+  - "Tom\xE1\u0161 Ruml"
+  - Kamil Lang
+  publisher: Biomaterials Science
+  date: '2019-01-01'
+  link: https://doi.org/hcg9h6
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/ACS.INORGCHEM.9B02569
+  title: 'Phosphinate Apical Ligands: A Route to a Water-Stable Octahedral Molybdenum
+    Cluster Complex'
+  authors:
+  - Kaplan Kirakci
+  - Jan Demel
+  - Jan Hynek
+  - Jaroslav Zelenka
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - Kamil Lang
+  publisher: Inorganic Chemistry
+  date: '2019-12-03'
+  link: https://doi.org/hcg9h7
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33549/PHYSIOLRES.933961
+  title: "Various AKIP1 Expression Levels Affect Its Subcellular Localization but\
+    \ Have no Effect on NF-\u03BAB Activation"
+  authors:
+  - "A. KEPROV\xC1"
+  - "L. KO\u0158\xCDNKOV\xC1"
+  - "I. K\u0158\xCD\u017DOV\xC1"
+  - "R. HADRAVOV\xC1"
+  - F. KAUFMAN
+  - "I. PICHOV\xC1"
+  - T. RUML
+  - "M. RUMLOV\xC1"
+  publisher: Physiological Research
+  date: '2019-03-22'
+  link: https://doi.org/hcg9h8
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1811580115
+  title: Structure and architecture of immature and mature murine leukemia virus capsids
+  authors:
+  - Kun Qu
+  - "B\xE4rbel Glass"
+  - "Michal Dole\u017Eal"
+  - Florian K. M. Schur
+  - Brice Murciano
+  - Alan Rein
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Hans-Georg Kr\xE4usslich"
+  - John A. G. Briggs
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2018-11-26'
+  link: https://doi.org/hcg9h9
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.biotechadv.2017.12.016
+  title: In vitro methods for testing antiviral drugs
+  authors:
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Biotechnology Advances
+  date: '2018-05-01'
+  link: https://doi.org/gdmfzn
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/jvi.00106-18
+  title: Mutations in the Basic Region of the Mason-Pfizer Monkey Virus Nucleocapsid
+    Protein Affect Reverse Transcription, Genomic RNA Packaging, and the Virus Assembly
+    Site
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Filip Kaufman
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Anna Kultov\xE1"
+  - "Karol\xEDna Strohalmov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of Virology
+  date: '2018-05-15'
+  link: https://doi.org/hcg9jb
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v10040212
+  title: Does BCA3 Play a Role in the HIV-1 Replication Cycle?
+  authors:
+  - "Michaela Rumlov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - Jaroslav Zelenka
+  - Jan Weber
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Viruses
+  date: '2018-04-20'
+  link: https://doi.org/hcg9jc
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000437674105042
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674105042
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.VIROL.2018.06.001
+  title: "Conserved cysteines in Mason\u2013Pfizer monkey virus capsid protein are\
+    \ essential for infectious mature particle formation"
+  authors:
+  - "R\u016F\u017Eena P\xEDchalov\xE1"
+  - "Tibor F\xFCzik"
+  - "Barbora Vokat\xE1"
+  - "Michaela Rumlov\xE1"
+  - Manuel Llano
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - Pavel Ulbrich
+  publisher: Virology
+  date: '2018-08-01'
+  link: https://doi.org/gd3gb8
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TSP.2018.8441257
+  title: Heart Rate Variability During Long-Term Air Traffic Control in Cadets
+  authors:
+  - Petr volf
+  - Patrik Kutilek
+  - Jan Hejda
+  - Pavel Smrcka
+  - Vaclav Krivanek
+  - Radek Doskocil
+  - Jan Farlik
+  - Josef Casar
+  - Michaela Klikova
+  publisher: 2018 41st International Conference on Telecommunications and Signal Processing
+    (TSP)
+  date: '2018-07-01'
+  link: https://doi.org/ghdh5v
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/V10100575
+  title: Mason-Pfizer Monkey Virus Envelope Glycoprotein Cycling and Its Vesicular
+    Co-Transport with Immature Particles
+  authors:
+  - "Petra Grzn\xE1rov\xE1 Prok\u0161ov\xE1"
+  - Jan Lipov
+  - Jaroslav Zelenka
+  - Eric Hunter
+  - "Hana Langerov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Viruses
+  date: '2018-10-20'
+  link: https://doi.org/hcg9jd
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000437674102316
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674102316
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000437674101001
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674101001
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/C8TB00893K
+  title: Octahedral molybdenum clusters as radiosensitizers for X-ray induced photodynamic
+    therapy
+  authors:
+  - Kaplan Kirakci
+  - Jaroslav Zelenka
+  - "Michaela Rumlov\xE1"
+  - "Ji\u0159\xED Martin\u010D\xEDk"
+  - Martin Nikl
+  - "Tom\xE1\u0161 Ruml"
+  - Kamil Lang
+  publisher: Journal of Materials Chemistry B
+  date: '2018-01-01'
+  link: https://doi.org/hcg9jf
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000437674105181
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674105181
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000437674102317
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674102317
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JPHOTOBIOL.2017.02.012
+  title: Conjugation of chlorins with spermine enhances phototoxicity to cancer cells
+    in vitro
+  authors:
+  - Mariia Darmostuk
+  - "Michal Jur\xE1\u0161ek"
+  - Kamila Lengyel
+  - Jaroslav Zelenka
+  - "Michaela Rumlov\xE1"
+  - "Pavel Dra\u0161ar"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: 'Journal of Photochemistry and Photobiology B: Biology'
+  date: '2017-03-01'
+  link: https://doi.org/f9z55r
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000460265400005
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000460265400005
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JVIROMET.2017.06.003
+  title: Optimized method for isolation of immature intracytoplasmic retroviral particles
+    from mammalian cells
+  authors:
+  - "Hana Langerov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of Virological Methods
+  date: '2017-10-01'
+  link: https://doi.org/gb4f3p
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/JBC.M116.746461
+  title: Functional and Structural Characterization of Novel Type of Linker Connecting
+    Capsid and Nucleocapsid Protein Domains in Murine Leukemia Virus
+  authors:
+  - "Michal Dole\u017Eal"
+  - "Romana Hadravov\xE1"
+  - "Milan Ko\u017E\xED\u0161ek"
+  - "Lucie Bedn\xE1rov\xE1"
+  - "Hana Langerov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of Biological Chemistry
+  date: '2016-09-01'
+  link: https://doi.org/f8588b
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JMB.2016.10.010
+  title: Membrane Interactions of the Mason-Pfizer Monkey Virus Matrix Protein and
+    Its Budding Deficient Mutants
+  authors:
+  - "Tom\xE1\u0161 Kroupa"
+  - "Hana Langerov\xE1"
+  - "Michal Dole\u017Eal"
+  - Jan Prchal
+  - "Vojt\u011Bch Spiwok"
+  - Eric Hunter
+  - "Michaela Rumlov\xE1"
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Journal of Molecular Biology
+  date: '2016-11-01'
+  link: https://doi.org/f9cxgt
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.03197-15
+  title: Nucleic Acid Binding by Mason-Pfizer Monkey Virus CA Promotes Virus Assembly
+    and Genome Packaging
+  authors:
+  - "Tibor F\xFCzik"
+  - "R\u016F\u017Eena P\xEDchalov\xE1"
+  - Florian K. M. Schur
+  - "Karol\xEDna Strohalmov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Michaela Rumlov\xE1"
+  - John A. G. Briggs
+  - Pavel Ulbrich
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Journal of Virology
+  date: '2016-05-01'
+  link: https://doi.org/f8kb7b
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.virol.2015.08.029
+  title: "FAITH \u2013 Fast Assembly Inhibitor Test for HIV"
+  authors:
+  - "Romana Hadravov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Virology
+  date: '2015-12-01'
+  link: https://doi.org/f73jf9
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S12104-014-9580-0
+  title: Resonance assignments of the myristoylated Y28F/Y67F mutant of the Mason-Pfizer
+    monkey virus matrix protein
+  authors:
+  - "Michal Dole\u017Eal"
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Biomolecular NMR Assignments
+  date: '2015-03-15'
+  link: https://doi.org/f8pd4m
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature13838
+  title: "Structure of the immature HIV-1 capsid in intact virus particles at 8.8\_\
+    \xC5 resolution"
+  authors:
+  - Florian K. M. Schur
+  - Wim J. H. Hagen
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Barbara M\xFCller"
+  - "Hans-Georg Kr\xE4usslich"
+  - John A. G. Briggs
+  publisher: Nature
+  date: '2014-11-02'
+  link: https://doi.org/gf4g5n
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1742-4690-11-37
+  title: HIV-1 protease-induced apoptosis
+  authors:
+  - "Michaela Rumlov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Alena Keprov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Michal Dole\u017Eal"
+  - "Karol\xEDna Strohalmov\xE1"
+  - "Iva Pichov\xE1"
+  - "Miroslav H\xE1jek"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Retrovirology
+  date: '2014-05-20'
+  link: https://doi.org/f542bf
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/VIR.0.064345-0
+  title: "Breast cancer-associated protein \u2013 a novel binding partner of Mason-Pfizer\
+    \ monkey virus protease"
+  authors:
+  - "Michaela Rumlov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Michal Dole\u017Eal"
+  - "Karol\xEDna Strohalmov\xE1"
+  - "Alena Keprov\xE1"
+  - "Iva Pichov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Journal of General Virology
+  date: '2014-06-01'
+  link: https://doi.org/f57t33
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.02286-14
+  title: Role of Mason-Pfizer Monkey Virus CA-NC Spacer Peptide-Like Domain in Assembly
+    of Immature Particles
+  authors:
+  - "Karol\xEDna Strohalmov\xE1-Bohmov\xE1"
+  - "Vojt\u011Bch Spiwok"
+  - "Martin Lep\u0161\xEDk"
+  - "Romana Hadravov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - Pavel Ulbrich
+  - "Iva Pichov\xE1"
+  - "Lucie Bedn\xE1rov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of Virology
+  date: '2014-12-15'
+  link: https://doi.org/hcg9jg
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/S12977-014-0094-8
+  title: "Stabilization of the \u03B2-hairpin in Mason-Pfizer monkey virus capsid\
+    \ protein- a critical step for infectivity"
+  authors:
+  - Martin Obr
+  - "Romana Hadravov\xE1"
+  - "Michal Dole\u017Eal"
+  - "Ivana K\u0159\u017Eov\xE1"
+  - "Veronika Papou\u0161kov\xE1"
+  - "Luk\xE1\u0161 \u017D\xEDdek"
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Retrovirology
+  date: '2014-10-30'
+  link: https://doi.org/g8dwmh
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.PEP.2013.09.003
+  title: One-step separation of myristoylated and nonmyristoylated retroviral matrix
+    proteins
+  authors:
+  - "Michal Dole\u017Eal"
+  - "Ale\u0161 Z\xE1bransk\xFD"
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  - "Iva Pichov\xE1"
+  - "Michaela Rumlov\xE1"
+  publisher: Protein Expression and Purification
+  date: '2013-11-01'
+  link: https://doi.org/f5fwvn
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature11169
+  title: "Structure of the immature retroviral capsid at 8\u2009\xC5 resolution by\
+    \ cryo-electron microscopy"
+  authors:
+  - Tanmay A. M. Bharat
+  - Norman E. Davey
+  - Pavel Ulbrich
+  - James D. Riches
+  - Alex de Marco
+  - Michaela Rumlova
+  - Carsten Sachse
+  - Tomas Ruml
+  - John A. G. Briggs
+  publisher: Nature
+  date: '2012-06-03'
+  link: https://doi.org/f34hdb
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.06638-11
+  title: The G-Patch Domain of Mason-Pfizer Monkey Virus Is a Part of Reverse Transcriptase
+  authors:
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Jitka \u0160tokrov\xE1"
+  - "Jana G\xFCnterov\xE1"
+  - "Michal Dole\u017Eal"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  - "Iva Pichov\xE1"
+  publisher: Journal of Virology
+  date: '2012-02-15'
+  link: https://doi.org/dxhvzf
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/CHEM.201201239
+  title: "\u03B2\u2010Cyclodextrin Duplexes That Are Connected through Two Disulfide\
+    \ Bonds: Potent Hosts for the Complexation of Organic Molecules"
+  authors:
+  - Anastasia Grishina
+  - Stancho Stanchev
+  - "Luk\xE1\u0161 Kumprecht"
+  - "Milo\u0161 Bud\u011B\u0161\xEDnsk\xFD"
+  - "Michaela Pojarov\xE1"
+  - "Michal Du\u0161ek"
+  - "Michaela Rumlov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Lubom\xEDr Rul\xED\u0161ek"
+  - "Tom\xE1\u0161 Kraus"
+  publisher: "Chemistry \u2013 A European Journal"
+  date: '2012-08-22'
+  link: https://doi.org/fz6g25
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/jvi.05564-11
+  title: "<i>In Vitro</i>\n            Assembly of Virus-Like Particles of a Gammaretrovirus,\
+    \ the Murine Leukemia Virus XMRV"
+  authors:
+  - "Romana Hadravov\xE1"
+  - Alex de Marco
+  - Pavel Ulbrich
+  - "Jitka \u0160tokrov\xE1"
+  - "Michal Dole\u017Eal"
+  - "Iva Pichov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - John A. G. Briggs
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of Virology
+  date: '2012-02-01'
+  link: https://doi.org/c7x7b3
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.BCP.2011.04.002
+  title: Point mutations in human guanylate kinase account for acquired resistance
+    to anticancer nucleotide analogue PMEG
+  authors:
+  - "Helena Mertl\xEDkov\xE1-Kaiserov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Eva Tlou\u0161\u0165ov\xE1"
+  - "Eli\u0161ka Proch\xE1zkov\xE1"
+  - "Anton\xEDn Hol\xFD"
+  - Ivan Votruba
+  publisher: Biochemical Pharmacology
+  date: '2011-07-01'
+  link: https://doi.org/d57d3k
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000291547800003
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000291547800003
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.02022-09
+  title: "Effect of Dimerizing Domains and Basic Residues on\n            <i>In Vitro</i>\n\
+    \            and\n            <i>In Vivo</i>\n            Assembly of Mason-Pfizer\
+    \ Monkey Virus and Human Immunodeficiency Virus"
+  authors:
+  - "Karoli\u0301na Bohmova\u0301"
+  - "Romana Hadravova\u0301"
+  - "Jitka S\u030Ctokrova\u0301"
+  - "Roman Tu\u030Ama"
+  - "Toma\u0301s\u030C Ruml"
+  - "Iva Pichova\u0301"
+  - "Michaela Rumlova\u0301"
+  publisher: Journal of Virology
+  date: '2010-02-15'
+  link: https://doi.org/c5zdhv
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0924-977X(10)70768-9
+  title: P.3.f.003 Effect of clozapine on behavioural and cytokine profiles in rats
+    with lipopolysaccharide and viral protein stimulation
+  authors:
+  - "H. Tejkalov\xE1"
+  - T. Ruml
+  - "M. Rumlov\xE1"
+  - J. Klaschka
+  - "S. Ruzickov\xE1"
+  publisher: European Neuropsychopharmacology
+  date: '2010-08-01'
+  link: https://doi.org/c694ng
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000267069900153
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000267069900153
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JMB.2009.06.029
+  title: "NMR Structure of the N-Terminal Domain of Capsid Protein from the Mason\u2013\
+    Pfizer Monkey Virus"
+  authors:
+  - Pavel Macek
+  - "Josef Chmel\xEDk"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Pavel Kade\u0159\xE1vek"
+  - Petr Padrta
+  - "Luk\xE1\u0161 \u017D\xEDdek"
+  - "Marcela Wildov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Radka Chaloupkov\xE1"
+  - "Iva Pichov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  - "Vladim\xEDr Sklen\xE1\u0159"
+  publisher: Journal of Molecular Biology
+  date: '2009-09-01'
+  link: https://doi.org/d85dk8
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.VIROL.2008.10.048
+  title: The impact of altered polyprotein ratios on the assembly and infectivity
+    of Mason-Pfizer monkey virus
+  authors:
+  - "Zdena Kohoutov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Martin Andre\xE1nsky"
+  - Michael Sakalian
+  - Eric Hunter
+  - "Iva Pichov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Virology
+  date: '2009-02-01'
+  link: https://doi.org/bdq7mp
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000267069900360
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000267069900360
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/PNAS.0801765105
+  title: D-retrovirus morphogenetic switch driven by the targeting signal accessibility
+    to Tctex-1 of dynein
+  authors:
+  - "Ji\u0159\xED Vlach"
+  - Jan Lipov
+  - "Michaela Rumlov\xE1"
+  - "V\xE1clav Veverka"
+  - Jan Lang
+  - Pavel Srb
+  - "Zden\u011Bk Knejzl\xEDk"
+  - "Iva Pichov\xE1"
+  - Eric Hunter
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2008-07-29'
+  link: https://doi.org/c9wt9r
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S12104-008-9080-1
+  title: "1H, 13C, and 15N resonance assignment of the N-terminal domain of Mason-Pfizer\
+    \ monkey virus capsid protein, CA\_1-140"
+  authors:
+  - Pavel Macek
+  - "Luk\xE1\u0161 \u017D\xEDdek"
+  - "Michaela Rumlov\xE1"
+  - "Iva Pichov\xE1"
+  - "Vladim\xEDr Sklen\xE1\u0159"
+  publisher: Biomolecular NMR Assignments
+  date: '2008-03-26'
+  link: https://doi.org/fq6t7r
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000253252500005
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000253252500005
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0924-977X(08)70711-9
+  title: P.3.f.006 Neonatal administration of HIV-1 proteins alters behaviour and
+    NMDA receptor binding in the adult rat brain
+  authors:
+  - "H.B. Tejkalov\xE1"
+  - T. Ruml
+  - "M. Rumlov\xE1"
+  - J. Klaschka
+  - J. Myslivecek
+  - F. Stastny
+  publisher: European Neuropsychopharmacology
+  date: '2008-08-01'
+  link: https://doi.org/c3p6kh
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.VIROL.2008.07.021
+  title: The effect of point mutations within the N-terminal domain of Mason-Pfizer
+    monkey virus capsid protein on virus core assembly and infectivity
+  authors:
+  - "Marcela Wildov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Jitka \u0160tokrov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - Eric Hunter
+  - "Iva Pichov\xE1"
+  - "Michaela Rumlov\xE1"
+  publisher: Virology
+  date: '2008-10-01'
+  link: https://doi.org/cb4h72
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/NAR/GKL1074
+  title: Flexible segments modulate co-folding of dUTPase and nucleocapsid proteins
+  authors:
+  - V. Nemeth-Pongracz
+  - O. Barabas
+  - M. Fuxreiter
+  - I. Simon
+  - I. Pichova
+  - M. Rumlova
+  - H. Zabranska
+  - D. Svergun
+  - M. Petoukhov
+  - V. Harmat
+  - E. Klement
+  - E. Hunyadi-Gulyas
+  - K. F. Medzihradszky
+  - E. Konya
+  - B. G. Vertessy
   publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  date: '2006-12-14'
+  link: https://doi.org/dk4p4q
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+- id: wosuid:WOS:000250203800169
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000250203800169
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1128/JVI.02694-05
+  title: Distinct Roles for Nucleic Acid in In Vitro Assembly of Purified Mason-Pfizer
+    Monkey Virus CANC Proteins
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Pavel Ulbrich
+  - Sarka Haubova
+  - Milan V. Nermut
+  - Eric Hunter
+  - Michaela Rumlova
+  - Tomas Ruml
+  publisher: Journal of Virology
+  date: '2006-07-15'
+  link: https://doi.org/fbmgtn
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1080/15257770600894535
+  title: Interacting Partners of M-PMV Nucleocapsid-DUTPase
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - "V. N\xE9meth-Pongr\xE1cz"
+  - J. Snasel
+  - M. Rumlova
+  - I. Pichova
+  - "B. G. V\xE9rtessy"
+  publisher: Nucleosides, Nucleotides and Nucleic Acids
+  date: '2006-06-01'
+  link: https://doi.org/dqvv5n
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1007/S10858-005-2473-X
+  title: 'Letter to the Editor: Assignment of 1H, 13C, and 15N resonances of WT matrix
+    protein and its R55F mutant from Mason-Pfizer monkey virus'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - J. Vlach
+  - J. Lipov
+  - V. Veverka
+  - "M. Rumlov\xE1"
+  - T. Ruml
+  - R. Hrabal
+  publisher: Journal of Biomolecular NMR
+  date: '2005-04-01'
+  link: https://doi.org/bvv738
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1016/J.AB.2005.07.013
+  title: Luminometric method for screening retroviral protease inhibitors
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - "Dana Hor\xE1kov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Iva Pichov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Analytical Biochemistry
+  date: '2005-10-01'
+  link: https://doi.org/b7zt9j
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: wosuid:WOS:000234826100048
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000234826100048
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0042-6822(03)00128-4
+  title: "Specific in vitro cleavage of Mason\u2013Pfizer monkey virus capsid protein:\
+    \ evidence for a potential role of retroviral protease in early stages of infection"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - Jan Pohl
+  - "Iva Pichov\xE1"
+  publisher: Virology
+  date: '2003-06-01'
+  link: https://doi.org/cm5xx6
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/JBC.M306967200
+  title: dUTPase and Nucleocapsid Polypeptides of the Mason-Pfizer Monkey Virus Form
+    a Fusion Protein in the Virion with Homotrimeric Organization and Low Catalytic
+    Efficiency
+  authors:
+  - "Orsolya Barab\xE1s"
+  - "Michaela Rumlov\xE1"
+  - Anna Erdei
+  - "Veronika Pongr\xE1cz"
+  - "Iva Pichov\xE1"
+  - "Be\xE1ta G. V\xE9rtessy"
+  publisher: Journal of Biological Chemistry
+  date: '2003-10-01'
+  link: https://doi.org/cjs88c
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.76.9.4321-4330.2002
+  title: "Molecular Organization of Mason-Pfizer Monkey Virus Capsids Assembled from\
+    \ Gag Polyprotein in\n            <i>Escherichia coli</i>"
+  authors:
+  - Milan V. Nermut
+  - Patrick Bron
+  - Daniel Thomas
+  - Michaela Rumlova
+  - Tomas Ruml
+  - Eric Hunter
+  publisher: Journal of Virology
+  date: '2002-05-01'
+  link: https://doi.org/crzsj9
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0168-1702(01)00326-4
+  title: Autoprocessing of Mason-Pfizer Monkey Virus Protease
+  authors: []
+  publisher: Virus Research
+  date: '2001-10-01'
+  link: https://doi.org/cqsz92
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1006/PREP.2001.1488
+  title: 'Comparison of Classical and Affinity Purification Techniques of Mason-Pfizer
+    Monkey Virus Capsid Protein: The Alteration of the Product by an Affinity Tag'
+  authors:
+  - "Michaela Rumlov\xE1"
+  - "Jitka Bened\u0131\u0301kov\xE1"
+  - "Romana Cub\u0131\u0301nkov\xE1"
+  - "Iva Pichov\xE1"
+  - "Tom\xE1s\u0306 Ruml"
+  publisher: Protein Expression and Purification
+  date: '2001-10-01'
+  link: https://doi.org/fvrrx6
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:BCI:BCI200100559055
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:BCI:BCI200100559055
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0168-1702(01)00309-4
+  title: Structural Aspects of Retrovirus Assembly
+  authors: []
+  publisher: Virus Research
+  date: '2001-10-01'
+  link: https://doi.org/bzkm89
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.74.18.8452-8459.2000
+  title: 'Analysis of Mason-Pfizer Monkey Virus Gag Domains Required for Capsid Assembly
+    in Bacteria: Role of the N-Terminal Proline Residue of CA in Directing Particle
+    Shape'
+  authors:
+  - Michaela Rumlova-Klikova
+  - Eric Hunter
+  - Milan V. Nermut
+  - Iva Pichova
+  - Tomas Ruml
+  publisher: Journal of Virology
+  date: '2000-09-15'
+  link: https://doi.org/d726q2
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1135/CCCC19991348
+  title: Conditions Resulting in Formation of Properly Assembled Retroviral Capsids
+    within Inclusion Bodies of Escherichia coli
+  authors:
+  - "Michaela Rumlov\xE1-Klikov\xE1"
+  - "Iva Pichov\xE1"
+  - Eric Hunter
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Collection of Czechoslovak Chemical Communications
+  date: '1999-01-01'
+  link: https://doi.org/c5bwrq
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/EMBOJ/16.19.5819
+  title: "The three\u2010dimensional solution structure of the matrix protein from\
+    \ the type D retrovirus, the Mason\u2013Pfizer monkey virus, and implications\
+    \ for the morphology of retroviral assembly"
+  authors:
+  - Maria R. Conte
+  - Michaela Klikova
+  - Eric Hunter
+  - Tomas Ruml
+  - Stephen Matthews
+  publisher: The EMBO Journal
+  date: '1997-10-01'
+  link: https://doi.org/chghkc
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.69.2.1093-1098.1995
+  title: Efficient in vivo and in vitro assembly of retroviral capsids from Gag precursor
+    proteins expressed in bacteria
+  authors:
+  - M Klikova
+  - S S Rhee
+  - E Hunter
+  - T Ruml
+  publisher: Journal of Virology
+  date: '1995-02-01'
+  link: https://doi.org/hcg9jh
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:A1995RF61200006
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1995RF61200006
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:A1994PN15700007
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1994PN15700007
+  orcid: 0000-0002-5645-8227
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:DIIDW:2012E51566
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:DIIDW:2012E51566
+  orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +1704,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +1720,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
