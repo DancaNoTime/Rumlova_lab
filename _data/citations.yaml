@@ -1691,35 +1691,33 @@
   orcid: 0000-0002-5645-8227
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1073/pnas.2407990121
+  title: "Unveiling the DHX15\u2013G-patch interplay in retroviral RNA packaging"
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Petra Junkov\xE1"
+  - "Jana Rackov\xE1"
+  - Marina Kapisheva
+  - "Radim Novotn\xFD"
+  - "Mat\u011Bj Danda"
+  - "Karol\xEDna Zvona\u0159ov\xE1"
+  - "Larisa \u0160inkovec"
+  - "Kate\u0159ina Ve\u010Derkov\xE1"
+  - "Lucie Bedn\xE1rov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-09-25'
+  link: https://doi.org/hcg9hh
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: We explored how a simple retrovirus, Mason-Pfizer monkey virus (M-PMV)
+    to facilitate its replication process, utilizes DHX15, a cellular RNA helicase,
+    typically engaged in RNA processing.
+  image: images/AD_pub.jpg
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
   - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+    link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11459146/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
