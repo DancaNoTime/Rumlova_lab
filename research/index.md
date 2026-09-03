@@ -13,7 +13,7 @@ Explore our publications and learn more about our research.
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Unveiling the DHX15–G-patch" style="rich" %}
 
 {% include section.html %}
 
