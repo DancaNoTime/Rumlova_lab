@@ -2,7 +2,7 @@
   type: paper
   description: We explored how a simple retrovirus, Mason-Pfizer monkey virus (M-PMV) to facilitate its replication process, utilizes DHX15, a cellular RNA helicase, typically engaged in RNA processing.
   date: 2024-09-25
-  image: images/AD_pub.jpg
+  image: images/AD_pub.png
   buttons:
     - type: website
       link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11459146/
